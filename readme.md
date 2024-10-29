@@ -21,5 +21,5 @@ Now inside the main folder, (open it in terminal and follow below steps).
 ```
     
 ## Demo
-![Logo]("demoPicture.png")
+![Logo](demoPicture.png)
 
