@@ -21,5 +21,5 @@ Now inside the main folder, (open it in terminal and follow below steps).
 ```
     
 ## Demo
-![Logo]("https://raw.githubusercontent.com/Kr-Gagandeo1025/Gesture-Volume-Control-py/refs/heads/master/demoPicture.png")
+![Logo]("./demoPicture.png")
 
